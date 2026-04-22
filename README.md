@@ -166,7 +166,3 @@ The central idea behind this project is that meaningful climate structure can em
 ## Conclusion
 
 This project shows that unsupervised machine learning can rediscover broad climate structure from raw weather observations, and that Apache Spark makes the workflow practical at scale. Using distributed ingestion, parallel feature extraction, and MLlib clustering, the pipeline turns a massive climate archive into interpretable climate zones.
-
----
-
-If you found this project useful, consider starring the repository and exploring the notebook for the full implementation.
